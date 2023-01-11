@@ -1,8 +1,8 @@
 List<Map> forYou = [
   {
-    'name': 'SobGOG Hotel',
+    'name': 'Azora Inc.',
     'img':
-        'https://cdn.pixabay.com/photo/2018/02/24/17/17/window-3178666_1280.jpg',
+        'https://pixabay.com/photos/azora-company-company-logo-network-7711314/',
     'location': 'Katowice',
     'price': 399,
     'rating': 5,
